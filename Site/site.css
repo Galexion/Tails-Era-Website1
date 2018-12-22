@@ -1,0 +1,33 @@
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Open+Sans|Ubuntu');
+
+.h1 {
+color: rgb(153, 204, 255);
+font-size: 90px;
+font-family: 'Major Mono Display', monospace;
+}
+.P1 {
+font-family:'opensans', sans-serif;
+font-size:40px;
+}
+
+h1 {
+font-size:50px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+font-size: 30px;
+font-family:'opensans', sans-serif;
+}
+
+.things { 
+font-size: 20px;
+font-family: 'Major Mono Display', monospace;
+}
+
+.nav {
+font-size:30px;
+}
